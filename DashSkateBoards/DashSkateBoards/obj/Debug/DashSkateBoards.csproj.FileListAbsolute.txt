@@ -1,0 +1,4 @@
+I:\VisualC#\DashSkateBoards\DashSkateBoards\bin\DashSkateBoards.dll
+I:\VisualC#\DashSkateBoards\DashSkateBoards\bin\DashSkateBoards.pdb
+I:\VisualC#\DashSkateBoards\DashSkateBoards\obj\Debug\DashSkateBoards.dll
+I:\VisualC#\DashSkateBoards\DashSkateBoards\obj\Debug\DashSkateBoards.pdb

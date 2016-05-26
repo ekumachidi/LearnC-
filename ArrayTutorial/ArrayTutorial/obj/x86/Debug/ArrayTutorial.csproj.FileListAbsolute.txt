@@ -1,0 +1,10 @@
+I:\VisualC#\ArrayTutorial\ArrayTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\VisualC#\ArrayTutorial\ArrayTutorial\bin\Debug\ArrayTutorial.exe
+I:\VisualC#\ArrayTutorial\ArrayTutorial\bin\Debug\ArrayTutorial.pdb
+I:\VisualC#\ArrayTutorial\ArrayTutorial\obj\x86\Debug\ArrayTutorial.exe
+I:\VisualC#\ArrayTutorial\ArrayTutorial\obj\x86\Debug\ArrayTutorial.pdb
+J:\VisualC#\ArrayTutorial\ArrayTutorial\obj\x86\Debug\ArrayTutorial.exe
+J:\VisualC#\ArrayTutorial\ArrayTutorial\obj\x86\Debug\ArrayTutorial.pdb
+J:\VisualC#\ArrayTutorial\ArrayTutorial\bin\Debug\ArrayTutorial.exe
+J:\VisualC#\ArrayTutorial\ArrayTutorial\bin\Debug\ArrayTutorial.pdb
+J:\VisualC#\ArrayTutorial\ArrayTutorial\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+J:\VisualC#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache

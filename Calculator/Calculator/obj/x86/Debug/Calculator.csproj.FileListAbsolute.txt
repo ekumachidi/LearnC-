@@ -1,0 +1,42 @@
+I:\VisualC#\Calculator\Calculator\bin\Debug\Calculator.exe
+I:\VisualC#\Calculator\Calculator\bin\Debug\Calculator.pdb
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\MainWindow.baml
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\MainWindow.g.cs
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\App.g.cs
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator_MarkupCompile.cache
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.g.resources
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+I:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\MainWindow.baml
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\MainWindow.g.cs
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\App.g.cs
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator_MarkupCompile.cache
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.g.resources
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\VisualC#\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\VisualC#\Calculator\Calculator\bin\Debug\Calculator.exe
+J:\VisualC#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\EkumaC\Documents\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\EkumaC\Documents\VisualC#\Calculator\Calculator\obj\x86\Debug\MainWindow.baml
+C:\Users\EkumaC\Documents\VisualC#\Calculator\Calculator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\EkumaC\Documents\VisualC#\Calculator\Calculator\obj\x86\Debug\App.g.cs
+C:\Users\EkumaC\Documents\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator_MarkupCompile.cache
+C:\Users\EkumaC\Documents\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.g.resources
+C:\Users\EkumaC\Documents\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\EkumaC\Documents\VisualC#\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\MainWindow.baml
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\App.g.cs
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator_MarkupCompile.cache
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.g.resources
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageSample\AverageSample\bin\Debug\AverageSample.exe
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageSample\AverageSample\bin\Debug\AverageSample.pdb
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageSample\AverageSample\obj\x86\Debug\AverageSample.exe
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageSample\AverageSample\obj\x86\Debug\AverageSample.pdb

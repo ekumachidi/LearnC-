@@ -1,0 +1,24 @@
+﻿body 
+{
+    background: #B54500;
+}
+
+h1
+{
+    font-family: Lucinda Grande Bold,
+    font-size: 14pt;
+    font-weight: bolder;   
+ }
+ .InputLabel
+ {
+     font-family:Lucinda Grande Bold,
+     font-size: 14pt;
+     font-weight:bolder;
+ }
+ 
+ .Information
+ {
+     font-family: Lucinda Grande Bold,
+     font-size: 14pt;
+     font-weight:bolder;
+ }

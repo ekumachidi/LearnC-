@@ -1,0 +1,5 @@
+J:\VisualC#\Assignments\Exercise 4\Exercise 4\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VisualC#\Assignments\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe
+J:\VisualC#\Assignments\Exercise 4\Exercise 4\bin\Debug\Exercise 4.pdb
+J:\VisualC#\Assignments\Exercise 4\Exercise 4\obj\x86\Debug\Exercise 4.exe
+J:\VisualC#\Assignments\Exercise 4\Exercise 4\obj\x86\Debug\Exercise 4.pdb

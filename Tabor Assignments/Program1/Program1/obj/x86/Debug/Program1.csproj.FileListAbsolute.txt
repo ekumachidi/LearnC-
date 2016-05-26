@@ -1,0 +1,5 @@
+H:\VisualC#\Program1\Program1\bin\Debug\Program1.exe
+H:\VisualC#\Program1\Program1\bin\Debug\Program1.pdb
+H:\VisualC#\Program1\Program1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\VisualC#\Program1\Program1\obj\x86\Debug\Program1.exe
+H:\VisualC#\Program1\Program1\obj\x86\Debug\Program1.pdb

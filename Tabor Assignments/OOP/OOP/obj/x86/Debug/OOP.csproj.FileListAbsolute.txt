@@ -1,0 +1,5 @@
+J:\VisualC#\OOP\OOP\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VisualC#\OOP\OOP\bin\Debug\OOP.exe
+J:\VisualC#\OOP\OOP\bin\Debug\OOP.pdb
+J:\VisualC#\OOP\OOP\obj\x86\Debug\OOP.exe
+J:\VisualC#\OOP\OOP\obj\x86\Debug\OOP.pdb

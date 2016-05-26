@@ -1,0 +1,10 @@
+J:\VisualC#\AverageCalculator\AverageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VisualC#\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+J:\VisualC#\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+J:\VisualC#\AverageCalculator\AverageCalculator\obj\x86\Debug\AverageCalculator.exe
+J:\VisualC#\AverageCalculator\AverageCalculator\obj\x86\Debug\AverageCalculator.pdb
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageCalculator\AverageCalculator\obj\x86\Debug\AverageCalculator.exe
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageCalculator\AverageCalculator\obj\x86\Debug\AverageCalculator.pdb
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+G:\EKUMA\Documents\Dev\Visual Studio 2010\Projects\AverageCalculator\AverageCalculator\obj\x86\Debug\AverageCalculator.csprojResolveAssemblyReference.cache

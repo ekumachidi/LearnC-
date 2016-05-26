@@ -1,0 +1,5 @@
+I:\VisualC#\TutAssignment1\TutAssignment1\bin\Debug\TutAssignment1.exe
+I:\VisualC#\TutAssignment1\TutAssignment1\bin\Debug\TutAssignment1.pdb
+I:\VisualC#\TutAssignment1\TutAssignment1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\VisualC#\TutAssignment1\TutAssignment1\obj\x86\Debug\TutAssignment1.exe
+I:\VisualC#\TutAssignment1\TutAssignment1\obj\x86\Debug\TutAssignment1.pdb

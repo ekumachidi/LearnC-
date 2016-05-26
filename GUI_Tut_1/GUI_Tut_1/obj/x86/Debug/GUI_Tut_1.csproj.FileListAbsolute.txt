@@ -1,0 +1,25 @@
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\bin\Debug\GUI_Tut_1.exe
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\bin\Debug\GUI_Tut_1.pdb
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.Form1.resources
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.Properties.Resources.resources
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.exe
+J:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.pdb
+I:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.exe
+I:\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.pdb
+C:\Users\EkumaC\Documents\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.exe
+C:\Users\EkumaC\Documents\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.pdb
+C:\Users\EkumaC\Documents\VisualC#\GUI_Tut_1\GUI_Tut_1\bin\Debug\GUI_Tut_1.exe
+C:\Users\EkumaC\Documents\VisualC#\GUI_Tut_1\GUI_Tut_1\bin\Debug\GUI_Tut_1.pdb
+C:\Users\EkumaC\Documents\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.Form1.resources
+C:\Users\EkumaC\Documents\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.Properties.Resources.resources
+C:\Users\EkumaC\Documents\VisualC#\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.csproj.GenerateResource.Cache
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.exe
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.pdb
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\GUI_Tut_1\GUI_Tut_1\bin\Debug\GUI_Tut_1.exe
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\GUI_Tut_1\GUI_Tut_1\bin\Debug\GUI_Tut_1.pdb
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.Form1.resources
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.Properties.Resources.resources
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\GUI_Tut_1\GUI_Tut_1\obj\x86\Debug\GUI_Tut_1.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+J:\VisualC#\Day2Hmwrk_ReadinTxtFile\Day2Hmwrk_ReadinTxtFile\bin\Debug\Day2Hmwrk_ReadinTxtFile.exe
+J:\VisualC#\Day2Hmwrk_ReadinTxtFile\Day2Hmwrk_ReadinTxtFile\bin\Debug\Day2Hmwrk_ReadinTxtFile.pdb
+J:\VisualC#\Day2Hmwrk_ReadinTxtFile\Day2Hmwrk_ReadinTxtFile\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VisualC#\Day2Hmwrk_ReadinTxtFile\Day2Hmwrk_ReadinTxtFile\obj\x86\Debug\Day2Hmwrk_ReadinTxtFile.exe
+J:\VisualC#\Day2Hmwrk_ReadinTxtFile\Day2Hmwrk_ReadinTxtFile\obj\x86\Debug\Day2Hmwrk_ReadinTxtFile.pdb

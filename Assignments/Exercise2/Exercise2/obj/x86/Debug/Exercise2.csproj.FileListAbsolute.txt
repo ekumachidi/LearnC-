@@ -1,0 +1,5 @@
+J:\VisualC#\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+J:\VisualC#\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+J:\VisualC#\Exercise2\Exercise2\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VisualC#\Exercise2\Exercise2\obj\x86\Debug\Exercise2.exe
+J:\VisualC#\Exercise2\Exercise2\obj\x86\Debug\Exercise2.pdb

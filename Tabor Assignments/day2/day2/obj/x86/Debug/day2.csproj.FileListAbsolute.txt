@@ -1,0 +1,5 @@
+c:\users\uvie gordon\documents\visual studio 2010\Projects\day2\day2\bin\Debug\day2.exe
+c:\users\uvie gordon\documents\visual studio 2010\Projects\day2\day2\bin\Debug\day2.pdb
+c:\users\uvie gordon\documents\visual studio 2010\Projects\day2\day2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\uvie gordon\documents\visual studio 2010\Projects\day2\day2\obj\x86\Debug\day2.exe
+c:\users\uvie gordon\documents\visual studio 2010\Projects\day2\day2\obj\x86\Debug\day2.pdb

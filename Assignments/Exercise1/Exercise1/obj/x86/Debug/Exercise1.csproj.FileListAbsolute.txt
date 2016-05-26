@@ -1,0 +1,9 @@
+J:\VisualC#\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+J:\VisualC#\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+J:\VisualC#\Exercise1\Exercise1\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VisualC#\Exercise1\Exercise1\obj\x86\Debug\Exercise1.exe
+J:\VisualC#\Exercise1\Exercise1\obj\x86\Debug\Exercise1.pdb
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Assignments\Exercise1\Exercise1\obj\x86\Debug\Exercise1.exe
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Assignments\Exercise1\Exercise1\obj\x86\Debug\Exercise1.pdb
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Assignments\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\EkumaC\Documents\Dev\Visual Studio 2010\Projects\Assignments\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
